@@ -1,1 +1,2 @@
 # python_learn_notes
+记录一下python学习中的知识点
