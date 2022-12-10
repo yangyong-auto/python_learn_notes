@@ -18,3 +18,4 @@ class Monkey:
     def info(cls):
         print('Monkey')
 
+__all__ = ['NAME','Dog']
