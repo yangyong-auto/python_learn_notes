@@ -8,6 +8,8 @@ wd = webdriver.Chrome(service=Service(r'C:\Users\15516\Desktop\python_learn_note
 # 调用WebDriver 对象的get方法 可以让浏览器打开指定网址
 wd.get('https://www.baidu.com')
 
+# dakai
+
 element = wd.find_element(By.ID, 'kw')
 
 element.send_keys('白月黑羽')
